@@ -1,0 +1,37 @@
+*{
+margin: 0;
+padding: 0;
+}
+.headingstyle{
+    background-color: rgb(167, 48, 48);
+    color: aliceblue;
+    text-align: center;
+    padding: 20px;
+}
+.largesize{
+    font-size: 3rem;
+    font-style: italic;
+    font-weight: bold;
+}
+.card{
+    background-color: rgb(165, 198, 248);
+    box-shadow: 2px 4px 4px grey;
+    margin: 10px;
+    padding: 10px;
+    width :320px;
+    display: inline-block;
+
+}
+.cardtitle{
+    text-align: center;
+    margin-bottom: 5px;
+}
+.cardDesc{
+    text-align: justify;
+    padding: 5px;
+    margin-bottom: 5px;
+}
+.cardFooter{
+    text-align: end;
+    font-weight: bold;
+}

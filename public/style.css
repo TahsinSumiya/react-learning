@@ -2,13 +2,13 @@
 margin: 0;
 padding: 0;
 }
-.headingstyle{
+.headingStyle{
     background-color: rgb(167, 48, 48);
     color: aliceblue;
     text-align: center;
     padding: 20px;
 }
-.largesize{
+.largeSize{
     font-size: 3rem;
     font-style: italic;
     font-weight: bold;
@@ -22,7 +22,7 @@ padding: 0;
     display: inline-block;
 
 }
-.cardtitle{
+.cardTitle{
     text-align: center;
     margin-bottom: 5px;
 }
